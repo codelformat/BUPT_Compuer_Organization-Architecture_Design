@@ -16,7 +16,6 @@ To get started with the materials in this repository:
 Clone the repository:
     ```bash
     git clone https://github.com/codelformat/BUPT_Computer_Organization-Architecture_Design.git
-    cd BUPT_Computer_Organization-Architecture_Design/Assignments
     ```
 
 ## Contributing
