@@ -14,9 +14,10 @@ This course covers the design VHDL files of this course. Topics include:
 To get started with the materials in this repository:
 
 Clone the repository:
-    ```bash
-    git clone https://github.com/codelformat/BUPT_Computer_Organization-Architecture_Design.git
-    ```
+```bash
+git clone https://github.com/codelformat/BUPT_Computer_Organization-Architecture_Design.git
+```
+    
 
 ## Contributing
 
